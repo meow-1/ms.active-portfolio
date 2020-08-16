@@ -53,9 +53,7 @@ ul li:hover ul li{
 font-family:inherit;
 font-variant-caps: petite-caps;
 padding:2px;
-	margin:5px;
-	-webkit-column-count:2;
-	-webkit-column-gap:2px;
+
 
 
 }
