@@ -20,7 +20,7 @@ ul li{
     background-color: #330099;
     opacity: .8;text-align: center;
     margin-right:45px;
-    border-radius:20px;
+    border-radius:20px;padding:5px;
 }
 ul li a{
 	text-decoration: none;
